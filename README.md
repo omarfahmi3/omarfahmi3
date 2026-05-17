@@ -5,7 +5,7 @@
 
 <p>
 Welcome to my page! </br>
-I'm Omar, a frontend developer from 
+I'm Omar, frontend developer from 
 <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> 
 <b>Egypt</b>.
 </p>
