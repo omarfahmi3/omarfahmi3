@@ -44,6 +44,11 @@ I'm Omar, frontend developer from
     <b>✅ To Do List App</b><br/>
     Task management app with add, delete, and complete features.
   </li>
+
+  <li>
+    <b>🍽 Recipe App</b><br/>
+    Recipe web app using API to fetch meals, display recipes dynamically, filter by names, and search functionality with interactive UI.
+  </li>
 </ul>
 
 <h3>Currently Learning</h3>
